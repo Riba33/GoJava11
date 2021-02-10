@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello World! 123");
         System.out.println();
         System.out.println("Еще одна строка в тексте!");
+        System.out.println("Конец!");
     }
 }
